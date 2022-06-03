@@ -1,0 +1,9 @@
+C:\Users\Boreal\Documents\Comafi\Codigo\VisualStudio\Prueba_SGFCON_V1\Prueba_SGFCON_V1\bin\Debug\Prueba_SGFCON_V1.exe
+C:\Users\Boreal\Documents\Comafi\Codigo\VisualStudio\Prueba_SGFCON_V1\Prueba_SGFCON_V1\bin\Debug\Prueba_SGFCON_V1.pdb
+C:\Users\Boreal\Documents\Comafi\Codigo\VisualStudio\Prueba_SGFCON_V1\Prueba_SGFCON_V1\bin\Debug\SGFCON_V1.dll
+C:\Users\Boreal\Documents\Comafi\Codigo\VisualStudio\Prueba_SGFCON_V1\Prueba_SGFCON_V1\bin\Debug\SGFCON_V1.pdb
+C:\Users\Boreal\Documents\Comafi\Codigo\VisualStudio\Prueba_SGFCON_V1\Prueba_SGFCON_V1\obj\Debug\Prueba_SGFCON_V1.csproj.AssemblyReference.cache
+C:\Users\Boreal\Documents\Comafi\Codigo\VisualStudio\Prueba_SGFCON_V1\Prueba_SGFCON_V1\obj\Debug\Prueba_SGFCON_V1.csproj.CoreCompileInputs.cache
+C:\Users\Boreal\Documents\Comafi\Codigo\VisualStudio\Prueba_SGFCON_V1\Prueba_SGFCON_V1\obj\Debug\Prueba_SGFCON_V1.csproj.CopyComplete
+C:\Users\Boreal\Documents\Comafi\Codigo\VisualStudio\Prueba_SGFCON_V1\Prueba_SGFCON_V1\obj\Debug\Prueba_SGFCON_V1.exe
+C:\Users\Boreal\Documents\Comafi\Codigo\VisualStudio\Prueba_SGFCON_V1\Prueba_SGFCON_V1\obj\Debug\Prueba_SGFCON_V1.pdb

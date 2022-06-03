@@ -1,0 +1,6 @@
+C:\Users\Boreal\Documents\Comafi\Codigo\VisualStudio\SGFCON_V1\SGFCON_V1\bin\Debug\SGFCON_V1.dll
+C:\Users\Boreal\Documents\Comafi\Codigo\VisualStudio\SGFCON_V1\SGFCON_V1\bin\Debug\SGFCON_V1.pdb
+C:\Users\Boreal\Documents\Comafi\Codigo\VisualStudio\SGFCON_V1\SGFCON_V1\obj\Debug\SGFCON_V1.csproj.AssemblyReference.cache
+C:\Users\Boreal\Documents\Comafi\Codigo\VisualStudio\SGFCON_V1\SGFCON_V1\obj\Debug\SGFCON_V1.csproj.CoreCompileInputs.cache
+C:\Users\Boreal\Documents\Comafi\Codigo\VisualStudio\SGFCON_V1\SGFCON_V1\obj\Debug\SGFCON_V1.dll
+C:\Users\Boreal\Documents\Comafi\Codigo\VisualStudio\SGFCON_V1\SGFCON_V1\obj\Debug\SGFCON_V1.pdb
